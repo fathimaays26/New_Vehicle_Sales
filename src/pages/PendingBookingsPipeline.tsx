@@ -14,7 +14,7 @@ import type {
   FactBooking,
   FactSalesTransaction,
 } from "../index";
-import HorizontalBarChart from "../component/charts/HorizontalBarChart";
+
 import ClusteredColumnChart from "../component/charts/ClusteredColumnChart";
 
 interface EnrichedBooking {

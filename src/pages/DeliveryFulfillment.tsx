@@ -95,7 +95,6 @@ function DeliveryHierarchyChart({
   path,
   levels,
   metric,
-  onBack,
   onDrill,
 }: {
   nodes: DeliveryHierarchyNode[];
